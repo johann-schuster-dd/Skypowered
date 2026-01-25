@@ -9,7 +9,7 @@ Skypowered does not collect, transmit, or share any data. All data you enter int
 
 ## Data Usage
 
-The app uses your locally stored data exklusively to provide its core functionality, including energy calculations and visualizations.
+The app uses your locally stored data exclusively to provide its core functionality, including energy calculations and visualizations.
 
 ## Data Sharing
 
