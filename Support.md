@@ -9,12 +9,11 @@ You need to have at least one device registered in order to fully use Skypowered
 
 1. In the bottom tab bar, tap "Overview" to the left.
 2. In the top right corner, tap the "+"-button to open the context window.
-3. In the context window, choose "New device".
-4. The opening sheet requests three different information about the device you want to add. At the top, enter its name. Below, use the picker to select the battery capacity of your device.
-5. You may choose a symbol from the gallery that will be displayed together with the device name.
-6. Tap "Save" in the top right corner to finish the registration process.
+3. If you want to add a device from a template, choose an iPhone or iPad from the appearing list. You can also skip this step.
+4. The appearing sheet gives you the option to edit or add the name and the image that should be displayed with your device. The battery capacity of the device manages Skypowered calculations when charging.
+5. Tap "Save" to finish the registration process.
 
-You can now find this registered device in the context menu opening on the "+"-button from step 2.
+You can now find this registered device in the context menu opening on the "Charge Device" button on the overview page.
 
 ### Edit or Delete Device Information
 
