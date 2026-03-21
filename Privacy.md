@@ -1,5 +1,7 @@
 # Privacy Policy
 
+Skypowered respects your privacy.
+
 ## Data Collection
 
 Skypowered does not collect, transmit, or share any data. All data you enter into the app (such as devices and charging values) is stored locally on your device.

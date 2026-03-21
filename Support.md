@@ -8,8 +8,8 @@ Here you find what you need to run Skypowered as easy as possible.
 You need to have at least one device registered in order to fully use Skypowereds capabilites. To add a device, follow these steps.
 
 1. In the bottom tab bar, tap "Overview" to the left.
-2. In the top right corner, tap the "+"-button to open the context window.
-3. If you want to add a device from a template, choose an iPhone or iPad from the appearing list. You can also skip this step.
+2. In the top right corner, tap the "Devices"-button to open the context menu. Then, choose "New Device".
+3. If you want to add a device from a template, choose an iPhone or iPad from the appearing list. You can also skip this step by tapping "Create from scratch".
 4. The appearing sheet gives you the option to edit or add the name and the image that should be displayed with your device. The battery capacity of the device manages Skypowered calculations when charging.
 5. Tap "Save" to finish the registration process.
 
@@ -20,13 +20,12 @@ You can now find this registered device in the context menu opening on the "Char
 Follow these steps to edit infomation about a registered device.
 
 1. In the bottom tab bar, tap "Overview" to the left.
-2. Tap the overview card "You registered x devices" on the bottom of the screen.
-3. Tap anywhere on the appearing information screen in order to transition to the device list. *If you have no registered devices yet, there will not be a device list.*
-4. In the list, select the device you want to edit.
-5. Edit the values you want to change. See *Add a Device* for more information about this view.
-6. Tap "Save" in the top right corner to update the data.
+2. Open the "Devices" context menu in the top right and choose "Manage Devices".
+3. In the list, select the device you want to edit.
+4. Edit the values you want to change. See *Add a Device* for more information about this view.
+5. Tap "Save" in the top right corner to update the data.
 
-To delete a device, follow the steps 1-4 from above. Below the device information, you will find a red button called "Delete this device". Confirm your action with "Delete <name>" on the appearing alert.
+To delete a device, follow the steps 1-3 from above. Below the device information, you will find a red button called "Delete this device". Confirm your action with "Delete <name>" on the appearing alert.
 **Note that this action cannot be undone. Once you delete a device, its information and all its allocated data, such as charging values, is lost.**
 
 ## Charging a Device
@@ -37,5 +36,7 @@ If you have at least one device registered, you can log its charging values in S
 2. In the opening context menu, choose the device you charged.
 3. Use the slider on the sheet to set the amount of percents you charged.
 4. Save to store the data.
+
+*Note that you can undo this up to one minute after having saved by tapping the appearing backward button in the top left.*
 
 For example, you charged your smartphone called "Lisa's Smartphone" using a solar panel. When plugged in, its battery indicator said 32%. After unplugging it with 87%, you open Skypowered, using the steps above to choose it from the list. Because the difference between 32% and 87% is 55%, you pull the slider to 55 and press save.
