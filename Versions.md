@@ -35,3 +35,21 @@ Find what changed in which distributed version of Skypowered.
 - Improved readability on some Overview Detail Cards
 - Bar widths of the statistic now adapt dynamically to their given space
 - Fixed an issue where the x-axis showed no labeling when having less values
+
+### 1.2
+*Released May 13, 2026*
+
+**Overall**
+- The App's interface is now fully available in German
+- Added logic for devices that accidentally have no name
+
+**Overview-Tab**
+- Choose the date of charge when creating a new entry
+- Added iPhone 17e and updated newest battery capacities on iPad
+
+**Fixes and small improvements**
+- Bars in the chart are now properly positioned
+- Bar width adaption is now more reliable
+- Fixed problems with labeling in some cases
+- Overall and average per bar values are now shown above a chart
+- Choose app language in Settings
